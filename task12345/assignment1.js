@@ -77,7 +77,7 @@ const productSummarires=products.map(product=>({
     price: product.price,
 }));
 console.log(productSummarires);
-
+console.log("hello")
 
 
 
